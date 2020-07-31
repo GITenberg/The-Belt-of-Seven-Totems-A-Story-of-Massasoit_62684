@@ -1,0 +1,42 @@
+_repo: The-Belt-of-Seven-Totems-A-Story-of-Massasoit_62684
+_version: 0.0.1
+alternative_title: 'The Belt of 7 Totems: A Story of Massasoit'
+contributor:
+  illustrator:
+    agent_name: McConnell, Emlen
+    birthdate: 1872
+    deathdate: 1947
+    gutenberg_agent_id: '52008'
+    url: http://www.gutenberg.org/2009/agents/52008
+creator:
+  author:
+    agent_name: Munroe, Kirk
+    birthdate: 1850
+    deathdate: 1930
+    gutenberg_agent_id: '1480'
+    url: http://www.gutenberg.org/2009/agents/1480
+    wikipedia: https://en.wikipedia.org/wiki/Kirk_Munroe
+description: ''
+gutenberg_issued: '2020-07-17'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '62684'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Voyages and travels -- Juvenile fiction'
+- !lcsh 'United States -- History -- Colonial period, ca. 1600-1775 -- Juvenile fiction'
+- !lcsh 'Pilgrims (New Plymouth Colony) -- Juvenile fiction'
+- !lcsh 'Friendship -- Juvenile fiction'
+- !lcsh 'Indians of North America -- Juvenile fiction'
+- !lcsh 'Massasoit, 1580-1661 -- Juvenile fiction'
+- !lcsh 'Wampum belts -- Juvenile fiction'
+- !lcsh 'Peace -- Juvenile fiction'
+- !lcc 'PZ'
+- !lcsh 'Prisoners -- Juvenile fiction'
+- !lcsh 'Slaves -- Juvenile fiction'
+- GITenberg
+title: 'The Belt of Seven Totems: A Story of Massasoit'
+url: http://www.gutenberg.org/ebooks/62684
